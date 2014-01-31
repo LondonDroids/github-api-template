@@ -8,9 +8,9 @@
 			"insert platform",
 			"insert platform"
 		],
-		"libraries": [
-			"insert library",
-			"insert library"
+		"toolkits": [
+			"insert toolkit",
+			"insert toolkit"
 		]
 	},
 	"themes": [
